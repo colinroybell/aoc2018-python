@@ -1,0 +1,25 @@
+2019-07-27
+
+Did in Rust: 1-14 and 16
+
+In Python currently I have done: 1-5 and 7
+
+Want to review 7 in the light of object references, lifetimes etc
+
+Remaining ones to redo or not:
+
+6. Manhattan distances and regions. Not particularly exciting.
+8. Metadata and values. Easy and might be good for data structure practice.
+9. Marble game. Only for completeness
+10. Star alignment. Maybe redo?
+11. Sums of cells. Maybe?
+12. Cellular automata. Good exercise.
+13. Mine cart. Do.
+14. Recipes (circular order again). Not exciting.
+16. Opcode detection. Do.
+
+
+
+
+
+
